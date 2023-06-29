@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    letter-spacing: 1em;
+}
+
+h2{
+    font-size: 4rem;
+}
+
+h1{
+    font-size: 6.5rem;
+}
+
+button{
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+}
